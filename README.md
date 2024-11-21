@@ -6,7 +6,7 @@
   - `npm i`
   - ` npm start`
 
-Backend
+- Backend
     -`Python 3.9.6`
     - `cd backend`
     - `pip install -r requirements.txt`
